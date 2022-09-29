@@ -1,0 +1,45 @@
+h1 {
+    color:red;
+}
+.icondisplay{
+    background-color:blue;
+     opacity: 0.8;
+     height: 5rem;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     
+    
+     
+}
+
+.icondisplay li {
+    list-style-type: none;
+    
+    
+}
+.icondisplay p {
+    color: white;
+    font-size: 0.8rem;
+}
+
+.icondisplay img {
+    height: 1.8rem;
+    width: 1.5rem;
+   
+    
+}
+/* .icondisplay .iconchild {
+    margin-left: 2.5rem
+} */
+
+
+.iconchild {
+    margin-left: 0.7rem;
+}
+
+.iconchild div {
+    display: flex;
+    justify-content: center;
+   
+}
